@@ -1,0 +1,15 @@
+1 Fries 1.000
+2 Turkey_sandwich 0.800
+3 Chease_sandwich 0.800
+4 Chicken_Burger 1.200
+5 Beef_Burger 1.200
+6 Omelet_sandwich 0.600
+7 Orange_juice 0.600
+8 Mango_juice 0.600
+9 kinza 0.250
+10 coffe 1.000
+11 water 0.100
+12 tea 0.100
+13 Croissant 0.900
+14 chocolate_cake 0.500
+15 Muffen 0.500

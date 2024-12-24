@@ -1,0 +1,34 @@
+*******************************
+      Welcome to Our Shop         
+Customer Name :Rami
+*******************************
+Your Orders:
+- Chicken_Burger - 1.2 OR
+- Chicken_Burger - 1.2 OR
+- Turkey_sandwich - 0.8 OR
+- kinza - 0.25 OR
+- kinza - 0.25 OR
+- Fries - 1.0 OR
+
+-------------------------------
+Total: 4.700 OR
+*******************************
+   Thank you for your visit!   
+*******************************
+
+
+*******************************
+      Welcome to Our Shop         
+Customer Name :dfasf
+*******************************
+Your Orders:
+- Beef_Burger - 1.2 OR
+- Chicken_Burger - 1.2 OR
+- Orange_juice - 0.6 OR
+
+-------------------------------
+Total: 3.000 OR
+*******************************
+   Thank you for your visit!   
+*******************************
+
